@@ -12,13 +12,13 @@ Here are some interesting links related to low-tech web and sustainability:
 - [Hugo](https://gohugo.io/): A static website generator written in Go (used for this website).
 - [Marginalia](https://search.marginalia.nu/): A search engine to find obscure and small websites.
 - [Dither Me This](https://doodad.dev/dither-me-this/): A really cool image dithering program.
-- [LowTech and IT](https://lownum.fr/): A French project led by a teacher from *Université de Technologie de Compiègne*.
+- [LowTech and IT](https://lownum.fr/): A French project led by a teacher from _Université de Technologie de Compiègne_.
 - [Website Carbon](https://www.websitecarbon.com/): A tool to estimate the carbon emissions of your websites.
-- [Gemini](https://geminiprotocol.net/docs/tech-overview.gmi) : A client-server protocol serving *gemtext* documents for a simpler web.
+- [Gemini](https://geminiprotocol.net/docs/tech-overview.gmi) : A client-server protocol serving _gemtext_ documents for a simpler web.
 
-### Fresk (or Collage) Workshops
+### Fresk (and others) Workshops
 
-I enjoy (and recommend) the [different Fresk workshops](https://wiki.climatefresk.org/?title=Les_fresques_amies), the most well-known being the [Climate Fresk](https://climatefresk.org/world/). I’ve also participated in the Planetary Frontiers, *Numérique* (Digital), Nutrition, and Biodiversity Fresks, which are also excellent (though currently available only in French). The Fresk movement also raises awareness about social inequalities. I especially like the Diversity Fresk, which challenges your knowledge about the impacts and issues of diversity in our societies and how we can address them.
+I enjoy (and recommend) the [different Fresk workshops](https://wiki.climatefresk.org/?title=Les_fresques_amies), the most well-known being the [Climate Fresk](https://climatefresk.org/world/). I’ve also participated in the Planetary Frontiers, _Numérique_ (Digital), Nutrition, and Biodiversity Fresks, which are also excellent (though currently available only in French). The Fresk movement also raises awareness about social inequalities. I especially like the Diversity Fresk, which challenges your knowledge about the impacts and issues of diversity in our societies and how we can address them.
 
 As I believe that social dynamics are an important lever to tackle social inequalities and ecological urgency, I decided to actively participate in this movement by becoming an animator myself. At present, I have learned and feel comfortable animating:
 
@@ -34,4 +34,8 @@ Here are a few fun games that help educate about climate urgency:
 
 - [Green New Deal Simulator](https://molleindustria.itch.io/green-new-deal-simulator)
 - [Beecarbonize](https://charlesgames.itch.io/beecarbonize)
+- [Half-Earth Socialism](https://play.half.earth/)
 
+### Self Training
+
+Carbon 4 just released a nice (but short) [training module](https://www.carbone4.com/en/our-courses-catalog/module-ia-environment) about the general impact of AI on the environment.
